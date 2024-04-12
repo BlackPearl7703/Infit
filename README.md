@@ -2,7 +2,13 @@
 
 
 # Introduction
-This project is a frontend website for gym exercises that allows users to register, view exercise methods, watch YouTube tutorials, and customize their workout plans based on muscle name, time available, location, and equipment.
+This project is a frontend website for gym exercises that allows users to register, view exercise methods by muscle names , watch YouTube tutorials, and customize their workout plans based on muscle name, time available, location, and equipment.
+
+# Features
+- User registration and authentication
+- Exercise methods and YouTube tutorials
+- Customizable workout plans based on user input
+- Admin panel for managing registered participants
 
 
 
