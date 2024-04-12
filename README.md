@@ -25,7 +25,7 @@ This project is a frontend website for gym exercises that allows users to regist
 - JavaScript
 - React.js
 
-# API INFO
+# API Info
 used 2 workout planner apis available on rapid api website to fetch data for a particular workout.
 
 # Installation
