@@ -1,3 +1,25 @@
+## Infit - train urself anywhere
+
+
+# Introduction
+This project is a frontend website for gym exercises that allows users to register, view exercise methods, watch YouTube tutorials, and customize their workout plans based on muscle name, time available, location, and equipment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Usage
 
 This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
