@@ -1,0 +1,64 @@
+/* write your css here */
+.main-landing{
+    background: url(./assets/834291.jpg)  no-repeat center center/cover;
+    object-fit: cover;
+  
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-container
+{
+    position: relative;
+}
+
+.logofont{
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body{
+    font-family: "Archivo Black", sans-serif;
+  /* font-family: cursive; */
+}
+
+.buttonkafont
+{
+    font-family: "Black Ops One", system-ui;
+}
+.curfont
+{
+    font-family: "Licorice", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.glass {
+    background: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
+    border-radius: 16px; /* Rounded corners */
+   /* Shadow for depth */
+    backdrop-filter: blur(2px);            /*Blurred glass effect*/
+    -webkit-backdrop-filter: blur(5px); /* For Safari compatibility */
+    border: 1px solid rgba(12, 32, 32, 0.5); /* Optional border */
+  }
+  .second-page
+  {
+    background: url('./assets/834279.jpg') no-repeat center center/cover;
+    height: 100vh;
+    width: 100vw;
+    /* object-fit: cover; */
+  
+  }
+  .middle-page
+  {
+    background: url(./assets/461075.jpg)  no-repeat center center/cover;
+    height: 20vw;
+    width: 100vw;
+ 
+    object-fit: cover;
+  
+  }
+
+  

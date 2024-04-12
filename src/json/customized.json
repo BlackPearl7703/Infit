@@ -1,0 +1,50 @@
+{
+    "_id": "646a234810135596c430f393",
+    "Warm Up": [
+      {
+        "Exercise": "Jumping Jacks",
+        "Time": "5 minutes"
+      },
+      {
+        "Exercise": "Arm Circles",
+        "Time": "2 minutes"
+      },
+      {
+        "Exercise": "Dynamic Stretching",
+        "Time": "5 minutes"
+      }
+    ],
+    "Exercises": [
+      {
+        "Exercise": "Bicep Curls",
+        "Sets": "3",
+        "Reps": "15"
+      },
+      {
+        "Exercise": "Hammer Curls",
+        "Sets": "3",
+        "Reps": "12"
+      },
+      {
+        "Exercise": "Concentration Curls",
+        "Sets": "3",
+        "Reps": "10"
+      },
+      {
+        "Exercise": "Reverse Curls",
+        "Sets": "3",
+        "Reps": "10"
+      }
+    ],
+    "Cool Down": [
+      {
+        "Exercise": "Static Stretching",
+        "Time": "5 minutes"
+      },
+      {
+        "Exercise": "Deep Breathing",
+        "Time": "3 minutes"
+      }
+    ],
+    "key": "biceps-30-beginner-dumbbells-strength"
+  }

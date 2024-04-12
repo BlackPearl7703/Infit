@@ -1,0 +1,46 @@
+{
+    "_id": "63f21b4ac9e04260460542e9",
+    "Warm Up": [
+      {
+        "Exercise": "Jumping Jacks",
+        "Time": "2 minutes"
+      },
+      {
+        "Exercise": "Arm Circles",
+        "Time": "2 minutes"
+      }
+    ],
+    "Exercises": [
+      {
+        "Exercise": "Bicep Curls",
+        "Sets": "3",
+        "Reps": "12"
+      },
+      {
+        "Exercise": "Hammer Curls",
+        "Sets": "3",
+        "Reps": "12"
+      },
+      {
+        "Exercise": "Concentration Curls",
+        "Sets": "3",
+        "Reps": "12"
+      },
+      {
+        "Exercise": "Incline Hammer Curls",
+        "Sets": "3",
+        "Reps": "12"
+      }
+    ],
+    "Cool Down": [
+      {
+        "Exercise": "Arm Crosses",
+        "Time": "2 minutes"
+      },
+      {
+        "Exercise": "Shoulder Rolls",
+        "Time": "2 minutes"
+      }
+    ],
+    "key": "biceps-30-gym-dumbbells"
+  }
