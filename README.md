@@ -21,7 +21,7 @@ This project is a frontend website for gym exercises that allows users to regist
 
 # Technologies Used
 - HTML
-- CSS
+- CSS , Tailwind
 - JavaScript
 - React.js
 
