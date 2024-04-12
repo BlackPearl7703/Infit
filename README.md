@@ -6,8 +6,10 @@ This project is a frontend website for gym exercises that allows users to regist
 
 
 # Screeshots 
+![Screenshot (222)](https://github.com/prince7703/Infit/assets/97835858/4b399f75-f96d-4ed7-88cd-85356b5fa58d)
+
 ![Screenshot (223)](https://github.com/prince7703/Infit/assets/97835858/f533a830-7d1a-47b4-ab95-2fa1d96c1926)
-![Screenshot (223)](https://github.com/prince7703/Infit/assets/97835858/b155361e-a4a9-4350-bb81-ed5fd423223b)
+
 
 
 
