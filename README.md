@@ -5,7 +5,7 @@
 This project is a frontend website for gym exercises that allows users to register, view exercise methods by muscle names , watch YouTube tutorials, and customize their workout plans based on muscle name, time available, location, and equipment.
 
 
-#Screeshots 
+# Screeshots 
 ![Screenshot (223)](https://github.com/prince7703/Infit/assets/97835858/f533a830-7d1a-47b4-ab95-2fa1d96c1926)
 ![Screenshot (223)](https://github.com/prince7703/Infit/assets/97835858/b155361e-a4a9-4350-bb81-ed5fd423223b)
 
