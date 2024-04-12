@@ -4,52 +4,48 @@
 # Introduction
 This project is a frontend website for gym exercises that allows users to register, view exercise methods by muscle names , watch YouTube tutorials, and customize their workout plans based on muscle name, time available, location, and equipment.
 
+
+#Screeshots 
+![Screenshot (223)](https://github.com/prince7703/Infit/assets/97835858/f533a830-7d1a-47b4-ab95-2fa1d96c1926)
+![Screenshot (223)](https://github.com/prince7703/Infit/assets/97835858/b155361e-a4a9-4350-bb81-ed5fd423223b)
+
+
+
 # Features
-- User registration and authentication
-- Exercise methods and YouTube tutorials
-- Customizable workout plans based on user input
-- Admin panel for managing registered participants
+- User registration and data collection .
+- Exercise methods along with written explanation & YouTube tutorials.
+- Customizable workout plans based on user input.
+- Admin panel for managing registered participants.
 
+# Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React.js
 
+# API INFO
+used 2 workout planner apis available on rapid api website to fetch data for a particular workout.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Usage
-
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
-
+# Installation
 1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+2. Install the dependencies using npm install.
+3. Start the application using npm start.
+4. donot forget to add a new api key to your js files (where it needs).
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+# api used links
+[api1 link](https://rapidapi.com/nabeeldev1340/api/workout-planner1)
+[api2 link](https://rapidapi.com/naeimsalib/api/work-out-api1)
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+
+
+
+
+
+
+
+
+
+
