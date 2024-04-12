@@ -1,4 +1,4 @@
-## Infit - train urself anywhere
+## Infit - Train urself anywhere
 
 
 # Introduction
@@ -39,7 +39,8 @@ used 2 workout planner apis available on rapid api website to fetch data for a p
 [api2 link](https://rapidapi.com/naeimsalib/api/work-out-api1)
 
 
-
+# Note
+Tutorials page will always work but other two are having 10 requests/ month 
 
 
 
